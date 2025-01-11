@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Amrutha (@ammoooo1234)
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Vertex AI LLM
 
